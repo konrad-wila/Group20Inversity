@@ -24,7 +24,7 @@ This project is a web-based dashboard for managing and monitoring battery passpo
 
 ## Usage
 1. Start the development server: `npm start`
-2. Open your web browser and go to `http://localhost:3000` to access the dashboard.
+2. Open your web browser and go to `http://localhost:8080` to access the dashboard.
 
 ## Technologies Used
 - HTML
