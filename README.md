@@ -21,6 +21,7 @@ This project is a web-based dashboard for managing and monitoring battery passpo
 1. Clone the repository: `git clone https://github.com/your/repository.git`
 2. Navigate to the project directory: `cd battery-passport-dashboard`
 3. Install dependencies: `npm install`
+4. Run DemoApplication.java
 
 ## Usage
 1. Start the development server: `npm start`
